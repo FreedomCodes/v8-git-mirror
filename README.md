@@ -1,6 +1,8 @@
 V8 JavaScript Engine
 =============
 
+[![Join the chat at https://gitter.im/barkinet/v8-git-mirror](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/barkinet/v8-git-mirror?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 V8 is Google's open source JavaScript engine.
 
 V8 implements ECMAScript as specified in ECMA-262.
